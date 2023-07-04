@@ -13,3 +13,23 @@
 My name is Ilya Ovsyannikov. I'm a second-year student at the Belarusian-Russian University. My specialization is software engineering. At this moment I'm looking for a job opportunities and I'm open to any offers and projects. My main goal is to take part in many interesting projects, meet new people with the same interests and learn new things about IT-sphere. My best character traits are responsibility and patience, which in my opinion are the most important in IT.
 
 ***
+
+## SKILLS
+
+* Programming languages:
+  * C#
+  * SQL
+  * JavaScript
+  * Python
+  * PHP
+* Databases
+  * MS Access
+  * MS SQL Server
+* Tools
+  * Figma
+  * Enterprice Architect
+* Version Control Systems
+  * Git
+* Other
+  * HTML
+  * CSS
