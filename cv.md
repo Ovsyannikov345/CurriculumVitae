@@ -81,3 +81,11 @@ namespace Solution
 * CV. The CV you are reading was created as part of an internship project.
 
 ***
+
+## COURSES
+
+1. MagNet C# Training
+2. EPAM Training 1-st stage
+3. EPAM Web Course
+
+***
