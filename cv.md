@@ -1,5 +1,9 @@
 # Ilya Ovsyannikov
 
+![Profile Picture](/images/profilePhoto.jpg)
+
+***
+
 ## CONTACT
 
 * Phone: +375 (29) 741-91-11
