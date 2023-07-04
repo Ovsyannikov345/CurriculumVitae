@@ -74,3 +74,10 @@ namespace Solution
 ```
 
 ***
+
+## EXPERIENCE
+
+* University project to create a database for online service "Service Market". The project was aimed at developing skills related to database design and optimization.
+* CV. The CV you are reading was created as part of an internship project.
+
+***
