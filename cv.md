@@ -89,3 +89,10 @@ namespace Solution
 3. EPAM Web Course
 
 ***
+
+## LANGUAGES
+
+* Russian (Native)
+* English (B1)
+
+***
