@@ -33,3 +33,44 @@ My name is Ilya Ovsyannikov. I'm a second-year student at the Belarusian-Russian
 * Other
   * HTML
   * CSS
+
+***
+
+## CODE EXAMPLE
+
+```C#
+using System;
+
+namespace Solution
+{
+    public static class Kata
+    {
+        public static bool IsValidIp(string ipAddress)
+        {
+            if (!IsValidSymbols(ipAddress))
+            {
+                return false;
+            }
+
+            string[] octets = ipAddress.Split('.');
+
+            if (octets.Length != 4)
+            {
+                return false;
+            }
+
+            foreach (var octet in octets)
+            {
+                if (!IsValidOctet(octet))
+                {
+                    return false;
+                }
+            }
+
+            return true;
+        }
+    }
+}
+```
+
+***
