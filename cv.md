@@ -1,0 +1,102 @@
+# Ilya Ovsyannikov
+
+![Profile Picture](/images/profilePhoto.jpg)
+
+***
+
+## CONTACT
+
+* Phone: +375 (29) 741-91-11
+* Email: <ilya.ovsyannikov@gmail.com>
+* Address: Belarus, Mogilev
+
+***
+
+## ABOUT ME
+
+My name is Ilya Ovsyannikov. I'm a second-year student at the Belarusian-Russian University. My specialization is software engineering. At this moment I'm looking for a job opportunities and I'm open to any offers and projects. My main goal is to take part in many interesting projects, meet new people with the same interests and learn new things about IT-sphere. My best character traits are responsibility and patience, which in my opinion are the most important in IT.
+
+***
+
+## SKILLS
+
+* Programming languages:
+  * C#
+  * SQL
+  * JavaScript
+  * Python
+  * PHP
+* Databases
+  * MS Access
+  * MS SQL Server
+* Tools
+  * Figma
+  * Enterprice Architect
+* Version Control Systems
+  * Git
+* Other
+  * HTML
+  * CSS
+
+***
+
+## CODE EXAMPLE
+
+```C#
+using System;
+
+namespace Solution
+{
+    public static class Kata
+    {
+        public static bool IsValidIp(string ipAddress)
+        {
+            if (!IsValidSymbols(ipAddress))
+            {
+                return false;
+            }
+
+            string[] octets = ipAddress.Split('.');
+
+            if (octets.Length != 4)
+            {
+                return false;
+            }
+
+            foreach (var octet in octets)
+            {
+                if (!IsValidOctet(octet))
+                {
+                    return false;
+                }
+            }
+
+            return true;
+        }
+    }
+}
+```
+
+***
+
+## EXPERIENCE
+
+* University project to create a database for online service "Service Market". The project was aimed at developing skills related to database design and optimization.
+* CV. The CV you are reading was created as part of an internship project.
+
+***
+
+## COURSES
+
+1. MagNet C# Training
+2. EPAM Training 1-st stage
+3. EPAM Web Course
+
+***
+
+## LANGUAGES
+
+* Russian (Native)
+* English (B1)
+
+***
